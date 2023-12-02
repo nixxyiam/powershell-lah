@@ -1,4 +1,4 @@
-# psfix-windows Repository
+# powershell-lah Repository
 
 This is a collection of PowerShell knowledge to improve personal productivity at
 home or at office. The more complicated processes are automated into scripts,
