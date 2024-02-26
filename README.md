@@ -10,6 +10,16 @@ common activities undertaken by a computer power user.
 
 ## Home PC Maintenance
 
+### Set Up PowerShell
+
+1. Update latest version of help files onto local machine.
+
+    ```powershell
+    Update-Help -Verbose -Force -ErrorAction SilentlyContinue
+    ```
+
+
+
 ### Add Cloudflare 1.1.1.1 for Families into Windows DNS Client DoH List
 
 1. Add Friendly DNS to block malware
