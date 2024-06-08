@@ -6,7 +6,7 @@ while the simpler ones are listed here for easy reference.
 
 The key motivation for this repository is to use Windows 11 PowerShell
 components, without the need to install third-party software, to facilitate
-common activities undertaken by a computer power user.
+common activities undertaken by a Windows power user.
 
 ## Home PC Maintenance
 
